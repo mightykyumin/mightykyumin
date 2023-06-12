@@ -13,4 +13,4 @@
   
   ## Languages
   
-  <img src="https://img.shields.io/badge/davidhwang1020@gmail.com-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
